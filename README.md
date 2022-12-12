@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-In the context of improved accessibility, this is being achieved by reworking the HTML, including changes to semantic elements, combined with a reconfiguration of CSS elements. Alt and title elements are also added.
+In the context of improved accessibility, this is being achieved by reworking the HTML, including changes to semantic elements, combined with a reconfiguration of CSS elements. Alt and title elements are also added, while html headings are in sequential order.
 
 The CSS elements are commented upon, in order to make the elements easier to read for future developers/members.
 

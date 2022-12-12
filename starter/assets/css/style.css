@@ -55,7 +55,7 @@ figure img {
   margin-bottom: 25px;
 }
 
-/* Section = Blue block to left of document */
+/* Section = Services - blue block to left of document */
 
 section {
   position: relative;
@@ -74,7 +74,7 @@ section {
   margin-left: 25px;
 }
 
-.float-left-cards {
+.services {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -83,12 +83,12 @@ section {
   color: #ffffff;
 }
 
-.float-left-cards img {
+.services img {
   display: inline;
   width: 300px;
 }
 
-.float-left-cards h2 {
+.services h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -97,7 +97,7 @@ p {
   font-size: 16px;
 }
 
-/* Aside = section containing icons to right of document */
+/* Aside = benefit-lead - section containing icons to right of document */
 
 aside {
   display: block;
@@ -113,9 +113,9 @@ aside {
 }
 
 .benefit-lead h3 {
-  margin: 0px 0px 0px 0px;
   text-align: center;
   color: #ffffff;
+  font-size: 20px;
 }
 
 .benefit-lead p {
@@ -139,6 +139,6 @@ footer {
   text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
   font-size: 20px;
 }
