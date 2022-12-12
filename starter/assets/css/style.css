@@ -16,6 +16,8 @@ header {
   color: #ffffff;
 }
 
+/* 'Horiseon' logo */
+
 h1 {
   display: inline-block;
   font-size: 45px;
@@ -24,6 +26,8 @@ h1 {
 .seo {
   color: #d9dcd6;
 }
+
+/* navigation */
 
 nav {
   float: right;
@@ -43,11 +47,15 @@ a {
   text-decoration: none;
 }
 
+/* Figure = Main image of marketing meeting. Changed url to html element in order to provide info for <alt> */
+
 figure img {
   position: relative;
   width: 100%;
   margin-bottom: 25px;
 }
+
+/* Section = Blue block to left of document */
 
 section {
   position: relative;
@@ -89,6 +97,8 @@ p {
   font-size: 16px;
 }
 
+/* Aside = section containing icons to right of document */
+
 aside {
   display: block;
   position: relative;
@@ -118,6 +128,8 @@ aside {
   margin: 10px auto;
   max-width: 150px;
 }
+
+/* footer of document with 'powered by' slogan */
 
 footer {
   padding: 30px;
