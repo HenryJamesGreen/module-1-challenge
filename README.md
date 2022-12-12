@@ -10,9 +10,9 @@ N/A
 
 ## Usage
 
-In the context of improved accessibility, this has been achieved by reworking the HTML and changing them to semantic elements, combined with a reconfiguration of CSS elements. Alt and title elements have also been added.
+In the context of improved accessibility, this is being achieved by reworking the HTML, including changes to semantic elements, combined with a reconfiguration of CSS elements. Alt and title elements are also added.
 
-The CSS elements have been commented upon, in order to make the elements easier to read for developers.
+The CSS elements are commented upon, in order to make the elements easier to read for future developers/members.
 
 The above can be viewed by accessing DevTools (accessible by pressing command+Option+I (macOS) or Control+Shift+I (Windows).
 
